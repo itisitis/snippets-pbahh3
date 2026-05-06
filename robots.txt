@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://itisitis.github.io/snippets-pbahh3/sitemap.xml
